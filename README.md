@@ -1,2 +1,2 @@
 # Shopping_List
-Created with CodeSandbox
+A simple Web page, built with React.
